@@ -1,0 +1,380 @@
+{
+	"begin": {
+		"prefix": "begin",
+		"body": "begin\n  ${1:?}\n↓⟨ ${3:?} ⟩\n  ${2:$1}\n∎",
+		"description": "begin",
+		"scope": "source.agda"
+	},
+	"not": {
+		"prefix": "not",
+		"body": "¬",
+		"description": "¬",
+		"scope": "source.agda"
+	},
+	"times": {
+		"prefix": "times",
+		"body": "×",
+		"description": "×",
+		"scope": "source.agda"
+	},
+	"gamma": {
+		"prefix": "gamma",
+		"body": "ɣ",
+		"description": "ɣ",
+		"scope": "source.agda"
+	},
+	"alpha": {
+		"prefix": "alpha",
+		"body": "α",
+		"description": "α",
+		"scope": "source.agda"
+	},
+	"beta": {
+		"prefix": "beta",
+		"body": "β",
+		"description": "β",
+		"scope": "source.agda"
+	},
+	"Gamma": {
+		"prefix": "Gamma",
+		"body": "Γ",
+		"description": "Γ",
+		"scope": "source.agda"
+	},
+	"delta": {
+		"prefix": "delta",
+		"body": "δ",
+		"description": "δ",
+		"scope": "source.agda"
+	},
+	"epsilon": {
+		"prefix": "epsilon",
+		"body": "ε",
+		"description": "ε",
+		"scope": "source.agda"
+	},
+	"eta": {
+		"prefix": "eta",
+		"body": "η",
+		"description": "η",
+		"scope": "source.agda"
+	},
+	"lambda": {
+		"prefix": "lambda",
+		"body": "λ",
+		"description": "λ",
+		"scope": "source.agda"
+	},
+	"mu": {
+		"prefix": "mu",
+		"body": "μ",
+		"description": "μ",
+		"scope": "source.agda"
+	},
+	"Sigma": {
+		"prefix": "Sigma",
+		"body": "Σ",
+		"description": "Σ",
+		"scope": "source.agda"
+	},
+	"sigma": {
+		"prefix": "sigma",
+		"body": "σ",
+		"description": "σ",
+		"scope": "source.agda"
+	},
+	"tau": {
+		"prefix": "tau",
+		"body": "τ",
+		"description": "τ",
+		"scope": "source.agda"
+	},
+	"phi": {
+		"prefix": "phi",
+		"body": "φ",
+		"description": "φ",
+		"scope": "source.agda"
+	},
+	"psi": {
+		"prefix": "psi",
+		"body": "ψ",
+		"description": "ψ",
+		"scope": "source.agda"
+	},
+	"***": {
+		"prefix": "***",
+		"body": "⁂",
+		"description": "⁂",
+		"scope": "source.agda"
+	},
+	"inv": {
+		"prefix": "inv",
+		"body": "⁻¹",
+		"description": "⁻¹",
+		"scope": "source.agda"
+	},
+	"_0": {
+		"prefix": "_0",
+		"body": "₀",
+		"description": "₀",
+		"scope": "source.agda"
+	},
+	"_1": {
+		"prefix": "_1",
+		"body": "₁",
+		"description": "₁",
+		"scope": "source.agda"
+	},
+	"_2": {
+		"prefix": "_2",
+		"body": "₂",
+		"description": "₂",
+		"scope": "source.agda"
+	},
+	"_3": {
+		"prefix": "_3",
+		"body": "₃",
+		"description": "₃",
+		"scope": "source.agda"
+	},
+	"_4": {
+		"prefix": "_4",
+		"body": "₄",
+		"description": "₄",
+		"scope": "source.agda"
+	},
+	"_5": {
+		"prefix": "_5",
+		"body": "₅",
+		"description": "₅",
+		"scope": "source.agda"
+	},
+	"_6": {
+		"prefix": "_6",
+		"body": "₆",
+		"description": "₆",
+		"scope": "source.agda"
+	},
+	"_7": {
+		"prefix": "_7",
+		"body": "₇",
+		"description": "₇",
+		"scope": "source.agda"
+	},
+	"_8": {
+		"prefix": "_8",
+		"body": "₈",
+		"description": "₈",
+		"scope": "source.agda"
+	},
+	"_9": {
+		"prefix": "_9",
+		"body": "₉",
+		"description": "₉",
+		"scope": "source.agda"
+	},
+	"N": {
+		"prefix": "N",
+		"body": "ℕ",
+		"description": "ℕ",
+		"scope": "source.agda"
+	},
+	"Q": {
+		"prefix": "Q",
+		"body": "ℚ",
+		"description": "ℚ",
+		"scope": "source.agda"
+	},
+	"R": {
+		"prefix": "R",
+		"body": "ℝ",
+		"description": "ℝ",
+		"scope": "source.agda"
+	},
+	"Z": {
+		"prefix": "Z",
+		"body": "ℤ",
+		"description": "ℤ",
+		"scope": "source.agda"
+	},
+	"up": {
+		"prefix": "up",
+		"body": "↑",
+		"description": "↑",
+		"scope": "source.agda"
+	},
+	"->": {
+		"prefix": "->",
+		"body": "→ ",
+		"description": "→",
+		"scope": "source.agda"
+	},
+	"down": {
+		"prefix": "down",
+		"body": "↓",
+		"description": "↓",
+		"scope": "source.agda"
+	},
+	"<~": {
+		"prefix": "<~",
+		"body": "↜",
+		"description": "↜",
+		"scope": "source.agda"
+	},
+	"~>": {
+		"prefix": "~>",
+		"body": "↝",
+		"description": "↝",
+		"scope": "source.agda"
+	},
+	"=>": {
+		"prefix": "=>",
+		"body": "⇒",
+		"description": "⇒",
+		"scope": "source.agda"
+	},
+	"forall": {
+		"prefix": "forall",
+		"body": "∀",
+		"description": "∀",
+		"scope": "source.agda"
+	},
+	"exists": {
+		"prefix": "exists",
+		"body": "∃",
+		"description": "∃",
+		"scope": "source.agda"
+	},
+	"notexists": {
+		"prefix": "notexists",
+		"body": "∄",
+		"description": "∄",
+		"scope": "source.agda"
+	},
+	"elem": {
+		"prefix": "elem",
+		"body": "∈",
+		"description": "∈",
+		"scope": "source.agda"
+	},
+	"notelem": {
+		"prefix": "notelem",
+		"body": "∉",
+		"description": "∉",
+		"scope": "source.agda"
+	},
+	"qed": {
+		"prefix": "qed",
+		"body": "∎",
+		"description": "∎",
+		"scope": "source.agda"
+	},
+	".": {
+		"prefix": ".",
+		"body": "∘",
+		"description": "∘",
+		"scope": "source.agda"
+	},
+	"/\\": {
+		"prefix": "/\\",
+		"body": "∧",
+		"description": "∧",
+		"scope": "source.agda"
+	},
+	"\\/": {
+		"prefix": "\\/",
+		"body": "∨",
+		"description": "∨",
+		"scope": "source.agda"
+	},
+	"::": {
+		"prefix": "::",
+		"body": "∷ ",
+		"description": "∷",
+		"scope": "source.agda"
+	},
+	"~~": {
+		"prefix": "~~",
+		"body": "≈",
+		"description": "≈",
+		"scope": "source.agda"
+	},
+	"/=": {
+		"prefix": "/=",
+		"body": "≠",
+		"description": "≠",
+		"scope": "source.agda"
+	},
+	"==": {
+		"prefix": "==",
+		"body": "≡",
+		"description": "≡",
+		"scope": "source.agda"
+	},
+	"===": {
+		"prefix": "===",
+		"body": "≣",
+		"description": "≣",
+		"scope": "source.agda"
+	},
+	"<=": {
+		"prefix": "<=",
+		"body": "≤",
+		"description": "≤",
+		"scope": "source.agda"
+	},
+	"csum": {
+		"prefix": "csum",
+		"body": "⊕",
+		"description": "⊕",
+		"scope": "source.adga"
+	},
+	"cprod": {
+		"prefix": "cprod",
+		"body": "⊗",
+		"description": "⊗",
+		"scope": "source.agda"
+	},
+	"top": {
+		"prefix": "top",
+		"body": "⊤",
+		"description": "⊤",
+		"scope": "source.agda"
+	},
+	"bot": {
+		"prefix": "bot",
+		"body": "⊥",
+		"description": "⊥",
+		"scope": "source.agda"
+	},
+	"|>": {
+		"prefix": "|>",
+		"body": "▻",
+		"description": "▻",
+		"scope": "source.agda"
+	},
+	"<|": {
+		"prefix": "<|",
+		"body": "◅",
+		"description": "◅",
+		"scope": "source.agda"
+	},
+	"<": {
+		"prefix": "<",
+		"body": "⟨",
+		"description": "⟨",
+		"scope": "source.agda"
+	},
+	">": {
+		"prefix": ">",
+		"body": "⟩",
+		"description": "⟩",
+		"scope": "source.agda"
+	},
+	"..": {
+		"prefix": "..",
+		"body": "⟩∘⟨",
+		"description": "⟩∘⟨",
+		"scope": "source.agda"
+	}
+}

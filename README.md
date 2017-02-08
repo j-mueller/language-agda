@@ -9,6 +9,7 @@ Agda language support for VSCode, based on https://github.com/mokus0/Agda.tmbund
 ## Features
 
 * Syntax highlighting for Agda
+* Snippets for common unicode characters (η,λ, etc.)
 
 ## Contributions
 
