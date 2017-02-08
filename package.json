@@ -2,13 +2,29 @@
     "name": "agda",
     "displayName": "language-agda",
     "description": "Syntax highlighting for agda",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "j-mueller",
+    "license": "SEE LICENSE IN LICENSE",
+    "author": {
+        "email": "j.mueller.11@ucl.ac.uk",
+        "name": "Jann Müller",
+        "url": "https://github.com/j-mueller"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/j-mueller/language-agda"
+    },
+    "bugs": {
+        "url": "https://github.com/j-mueller/language-agda/issues"
+    },
     "engines": {
         "vscode": "^1.5.0"
     },
     "categories": [
         "Languages"
+    ],
+    "keywords": [
+        "agda"
     ],
     "contributes": {
         "languages": [
