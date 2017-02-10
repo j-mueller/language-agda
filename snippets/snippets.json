@@ -269,8 +269,8 @@
 		"description": "∎",
 		"scope": "source.agda"
 	},
-	"cdot": {
-		"prefix": "cdot",
+	"circ": {
+		"prefix": "circ",
 		"body": "∘",
 		"description": "∘",
 		"scope": "source.agda"
@@ -333,7 +333,7 @@
 		"prefix": "csum",
 		"body": "⊕",
 		"description": "⊕",
-		"scope": "source.adga"
+		"scope": "source.agda"
 	},
 	"cprod": {
 		"prefix": "cprod",
@@ -399,6 +399,102 @@
 		"prefix": "subset",
 		"body": "⊂",
 		"description": "⊂",
+		"scope": "source.agda"
+	},
+	"nequiv": {
+		"prefix": "nequiv",
+		"body": "≢",
+		"description": "≢",
+		"scope": "source.agda"
+	},
+	"level": {
+		"prefix": "level",
+		"body": "ℓ",
+		"description": "ℓ",
+		"scope": "source.agda"
+	},
+	"sqcup": {
+		"prefix": "sqcup",
+		"body": "⊔",
+		"description": "⊔",
+		"scope": "source.agda"
+	},
+	"tilde": {
+		"prefix": "tilde",
+		"body": "∼",
+		"description": "∼",
+		"scope": "source.agda"
+	},
+	"deceq": {
+		"prefix": "deceq",
+		"body": "≟",
+		"description": "≟",
+		"scope": "source.agda"
+	},
+	"longrightarrow": {
+		"prefix": "longrightarrow",
+		"body": "⟶",
+		"description": "⟶",
+		"scope": "source.agda"
+	},
+	"coloneqq": {
+		"prefix": "coloneqq",
+		"body": "≔",
+		"description": "≔",
+		"scope": "source.agda"
+	},
+	"emptyset": {
+		"prefix": "emptyset",
+		"body": "∅",
+		"description": "∅",
+		"scope": "source.agda"
+	},
+	"sharp": {
+		"prefix": "sharp",
+		"body": "♯",
+		"description": "♯",
+		"scope": "source.agda"
+	},
+	"flat": {
+		"prefix": "flat",
+		"body": "♭",
+		"description": "♭",
+		"scope": "source.agda"
+	},
+	"infty": {
+		"prefix": "infty",
+		"body": "∞",
+		"description": "∞",
+		"scope": "source.agda"
+	},
+	"cdot": {
+		"prefix": "cdot",
+		"body": "∙",
+		"description": "∙",
+		"scope": "source.agda"
+	},
+	"pullback": {
+		"prefix": "pullback",
+		"body": "⟓",
+		"description": "⟓",
+		"scope": "source.agda"
+	},
+	"pushout": {
+		"prefix": "pushout",
+		"body": "⟔",
+		"description": "⟔",
+		"scope": "source.agda"
+	},
+	"leftsquarebracket": {
+		"prefix": "leftsquarebracket",
+		"body": "⟦",
+		"description": "⟦",
+		"scope": "source.agda"
+	},
+	"rightsquarebracket": {
+		"prefix": "rightsquarebracket",
+		"body": "⟧",
+		"description": "⟧",
 		"scope": "source.agda"
 	}
 }
