@@ -215,14 +215,14 @@
 		"description": "↓",
 		"scope": "source.agda"
 	},
-	"<~": {
-		"prefix": "<~",
+	"leftsquigarrow": {
+		"prefix": "leftsquigarrow",
 		"body": "↜",
 		"description": "↜",
 		"scope": "source.agda"
 	},
-	"~>": {
-		"prefix": "~>",
+	"rightsquigarrow": {
+		"prefix": "rightsquigarrow",
 		"body": "↝",
 		"description": "↝",
 		"scope": "source.agda"
@@ -287,14 +287,14 @@
 		"description": "∨",
 		"scope": "source.agda"
 	},
-	"::": {
-		"prefix": "::",
-		"body": "∷ ",
+	"cons": {
+		"prefix": "cons",
+		"body": "∷",
 		"description": "∷",
 		"scope": "source.agda"
 	},
-	"~~": {
-		"prefix": "~~",
+	"approx": {
+		"prefix": "approx",
 		"body": "≈",
 		"description": "≈",
 		"scope": "source.agda"
@@ -311,8 +311,8 @@
 		"description": "≡",
 		"scope": "source.agda"
 	},
-	"===": {
-		"prefix": "===",
+	"Equiv": {
+		"prefix": "Equiv",
 		"body": "≣",
 		"description": "≣",
 		"scope": "source.agda"
@@ -353,16 +353,16 @@
 		"description": "⊥",
 		"scope": "source.agda"
 	},
-	"|>": {
-		"prefix": "|>",
-		"body": "▻",
-		"description": "▻",
+	"triangleright": {
+		"prefix": "triangleright",
+		"body": "⊳",
+		"description": "⊳",
 		"scope": "source.agda"
 	},
-	"<|": {
-		"prefix": "<|",
-		"body": "◅",
-		"description": "◅",
+	"triangleleft": {
+		"prefix": "triangleleft",
+		"body": "⊲",
+		"description": "⊲",
 		"scope": "source.agda"
 	},
 	"langle": {
@@ -381,6 +381,24 @@
 		"prefix": "..",
 		"body": "⟩∘⟨",
 		"description": "⟩∘⟨",
+		"scope": "source.agda"
+	},
+	"diamond": {
+		"prefix": "diamond",
+		"body": "⋄",
+		"description": "⋄",
+		"scope": "source.agda"
+	},
+	"subseteq": {
+		"prefix": "subseteq",
+		"body": "⊆",
+		"description": "⊆",
+		"scope": "source.agda"
+	},
+	"subset": {
+		"prefix": "subset",
+		"body": "⊂",
+		"description": "⊂",
 		"scope": "source.agda"
 	}
 }
