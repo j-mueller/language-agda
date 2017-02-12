@@ -115,61 +115,61 @@
 	},
 	"_0": {
 		"prefix": "_0",
-		"body": "₀",
+		"body": "${1:variable}₀ ",
 		"description": "₀",
 		"scope": "source.agda"
 	},
 	"_1": {
 		"prefix": "_1",
-		"body": "₁",
+		"body": "${1:variable}₁ ",
 		"description": "₁",
 		"scope": "source.agda"
 	},
 	"_2": {
 		"prefix": "_2",
-		"body": "₂",
+		"body": "${1:variable}₂ ",
 		"description": "₂",
 		"scope": "source.agda"
 	},
 	"_3": {
 		"prefix": "_3",
-		"body": "₃",
+		"body": "${1:variable}₃ ",
 		"description": "₃",
 		"scope": "source.agda"
 	},
 	"_4": {
 		"prefix": "_4",
-		"body": "₄",
+		"body": "${1:variable}₄ ",
 		"description": "₄",
 		"scope": "source.agda"
 	},
 	"_5": {
 		"prefix": "_5",
-		"body": "₅",
+		"body": "${1:variable}₅ ",
 		"description": "₅",
 		"scope": "source.agda"
 	},
 	"_6": {
 		"prefix": "_6",
-		"body": "₆",
+		"body": "${1:variable}₆ ",
 		"description": "₆",
 		"scope": "source.agda"
 	},
 	"_7": {
 		"prefix": "_7",
-		"body": "₇",
+		"body": "${1:variable}₇ ",
 		"description": "₇",
 		"scope": "source.agda"
 	},
 	"_8": {
 		"prefix": "_8",
-		"body": "₈",
+		"body": "${1:variable}₈ ",
 		"description": "₈",
 		"scope": "source.agda"
 	},
 	"_9": {
 		"prefix": "_9",
-		"body": "₉",
+		"body": "${1:variable}₉ ",
 		"description": "₉",
 		"scope": "source.agda"
 	},
@@ -235,13 +235,13 @@
 	},
 	"forall": {
 		"prefix": "forall",
-		"body": "∀",
+		"body": "∀ ",
 		"description": "∀",
 		"scope": "source.agda"
 	},
 	"exists": {
 		"prefix": "exists",
-		"body": "∃",
+		"body": "∃ ",
 		"description": "∃",
 		"scope": "source.agda"
 	},
@@ -307,7 +307,7 @@
 	},
 	"equiv": {
 		"prefix": "equiv",
-		"body": "≡",
+		"body": "≡ ",
 		"description": "≡",
 		"scope": "source.agda"
 	},
